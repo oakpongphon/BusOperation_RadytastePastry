@@ -19,7 +19,8 @@ The project aimed to establish a data-driven strategy for determining the optima
 ## Extension & Innovation:
 Enhanced the model to incorporate price optimization alongside quantity, allowing Rady Tasty Pastry to adjust pricing according to demand fluctuations.
 Created a dynamic function that inputs the price/demand relationship and calculates the optimal price point and production quantity, integrating a price/demand model.
-[Model](/assets/img/Screenshot 2566-11-03 at 13.46.57.png)
+[Model](https://github.com/oakpongphon/BusOperation_RadytastePastry/tree/main/assets)
+
 ## Results & Impact:
 Enabled Rady Tasty Pastry to make informed decisions on production and pricing, leading to improved profit margins and reduced waste.
 Provided a scalable model that can be adapted to changing market conditions and other product lines.
