@@ -7,9 +7,9 @@ Rady Tasty Pastry faced a recurring dilemma concerning the production of their p
 The project aimed to establish a data-driven strategy for determining the optimal number of Quant Croissants to bake daily, considering both costs and variable customer demand.
 
 ## Code and Resources Used
-**Python**
-**Packages:** numpy, matplotlib, scipy.stats
-**Project information:** Rady Tasty Pastry by Terrence August, Rady School of Management, University of California, San Diego
+* Python
+* Packages: numpy, matplotlib, scipy.stats
+* Project information: Rady Tasty Pastry by Terrence August, Rady School of Management, University of California, San Diego
 
 ## Methodology:
 * Analyzed historical sales data and identified demand variability for Quant Croissants.
