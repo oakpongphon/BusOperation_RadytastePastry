@@ -1,7 +1,7 @@
 # Project overview: Optimization of Quant Croissant Production at Rady Tasty Pastry
 
 ## Context & Challenge
-* Rady Tasty Pastry faced a recurring dilemma concerning the production of their popular Quant Croissants – an imbalance between daily production and customer demand, resulting in either surplus pastries or unmet sales opportunities. With each croissant costing $1.25 to produce and selling at $5.00, optimizing the production quantity was crucial to maximize profits and minimize losses. Unsold croissants were partially recuperated through a deal with a charitable organization, buying leftovers at $0.50 each.
+Rady Tasty Pastry faced a recurring dilemma concerning the production of their popular Quant Croissants – an imbalance between daily production and customer demand, resulting in either surplus pastries or unmet sales opportunities. With each croissant costing $1.25 to produce and selling at $5.00, optimizing the production quantity was crucial to maximize profits and minimize losses. Unsold croissants were partially recuperated through a deal with a charitable organization, buying leftovers at $0.50 each.
 
 ## Objective
 The project aimed to establish a data-driven strategy for determining the optimal number of Quant Croissants to bake daily, considering both costs and variable customer demand.
