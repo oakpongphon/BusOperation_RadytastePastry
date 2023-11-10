@@ -8,8 +8,8 @@ The project aimed to establish a data-driven strategy for determining the optima
 
 ## Code and Resources Used
 *Python Version:* 3.10
-**Packages:** numpy, matplotlib, scipy.stats
-**Project information:** Rady Tasty Pastry by Terrence August
+*Packages:* numpy, matplotlib, scipy.stats
+*Project information:* Rady Tasty Pastry by Terrence August
 
 ## Methodology:
 * Analyzed historical sales data and identified demand variability for Quant Croissants.
